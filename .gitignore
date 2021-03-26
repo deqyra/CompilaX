@@ -1,0 +1,8 @@
+.vs
+.vscode
+bin
+build
+obj
+output
+external/lib
+external/include
